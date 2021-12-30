@@ -1,2 +1,2 @@
 # Julia-Numerical-Methods
-Numerical Methods in Julia Language
+Numerical Methods in Julia Programming Language
